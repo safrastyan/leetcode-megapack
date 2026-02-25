@@ -29,9 +29,9 @@ I take credit for the synthesis, not for the source :)
 | **Divide & Conquer** | Merge Sort, Quick Sort, Binary Search | 25+ |
 
 ### Difficulty Levels
-- 🟢 **Easy**: 150+ problems
-- 🟡 **Medium**: 250+ problems
-- 🔴 **Hard**: 100+ problems
+- 🟢 **Easy**: 450+ problems
+- 🟡 **Medium**: 450+ problems
+- 🔴 **Hard**: 400+ problems
 
 ## 📁 Repository Structure
 
@@ -43,11 +43,11 @@ The solutions folder is organized as follows.
 Each folder has the ID and the title of the problem. Inside the folder you will find the slug of the problem followed with the extension (.cpp, .c, .js. .py, .java, etc) for their respective solutions in the respective language, 
 
 
-## Donations
+# Donations
 
-If this work is helpful for you, feel free to donate for this project. 
+## If this work is helpful for you, feel free to donate for this project. 
 
-https://ko-fi.com/puzzlingspirit
+## https://ko-fi.com/puzzlingspirit
 
-Happy coding :)
+# Happy coding :)
 
